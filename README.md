@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 Recommendation Buddy
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
